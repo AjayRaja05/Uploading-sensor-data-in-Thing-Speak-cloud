@@ -155,6 +155,8 @@ void loop()
 
 
 # OUTPUT:
+![Screenshot 2025-01-05 131922](https://github.com/user-attachments/assets/09728b30-5c6e-4770-8f2e-3977d842b069)
+
 
 # RESULT:
 
