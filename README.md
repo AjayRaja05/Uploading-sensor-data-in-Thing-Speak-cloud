@@ -84,12 +84,19 @@ Automatically act on your data and communicate using third-party services like T
 
 
 #include <WiFi.h>
+
 #include "ThingSpeak.h" // always include thingspeak header file after other header files and custom macros
+
 #define Soil_Moisture 34
+
 char ssid[] = "1";   // your network SSID (name) 
+
 char pass[] = "12345678";   // your network password
+
 int keyIndex = 0;            // your network key Index number (needed only for WEP)
+
 WiFiClient  client;
+
 
 unsigned long myChannelNumber = 2787743;
 const int ChannelField = 1; 
@@ -144,6 +151,8 @@ void loop()
 
 
 # CIRCUIT DIAGRAM:
+![soilSensor1](https://github.com/user-attachments/assets/cb38e8dd-4927-42ad-9ac2-0040b3145a0b)
+
 
 # OUTPUT:
 
