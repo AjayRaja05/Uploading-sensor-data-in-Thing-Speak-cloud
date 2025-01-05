@@ -74,6 +74,15 @@ Automatically act on your data and communicate using third-party services like T
 
 
 
+
+
+
+
+
+
+
+
+
 #include <WiFi.h>
 #include "ThingSpeak.h" // always include thingspeak header file after other header files and custom macros
 #define Soil_Moisture 34
