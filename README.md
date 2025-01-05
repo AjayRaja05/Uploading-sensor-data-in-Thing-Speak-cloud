@@ -158,6 +158,9 @@ void loop()
 ![Screenshot 2025-01-05 131922](https://github.com/user-attachments/assets/09728b30-5c6e-4770-8f2e-3977d842b069)
 
 
+![Screenshot 2025-01-05 132058](https://github.com/user-attachments/assets/9b44e7cf-ae91-4ea8-9969-a946edeff114)
+
+
 # RESULT:
 
 Thus the temperature sensor values are updated in the Thing speak using ESP32 controller.
