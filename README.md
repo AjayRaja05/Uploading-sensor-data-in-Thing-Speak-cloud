@@ -82,7 +82,7 @@ Automatically act on your data and communicate using third-party services like T
 
 
 
-
+~~~
 #include <WiFi.h>
 
 #include "ThingSpeak.h" // always include thingspeak header file after other header files and custom macros
@@ -139,6 +139,7 @@ void loop()
   
    delay(5000); // Wait 20 seconds to update the channel again
 }
+~~~
 
 
 
